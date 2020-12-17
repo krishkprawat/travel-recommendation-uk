@@ -1,2 +1,2 @@
-# travel-recommendation-uk
+# travel-recommend
 Created with CodeSandbox

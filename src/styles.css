@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
+  max-width: 650px;
+  font-weight: 300;
+  height: auto;
+  margin: auto;
+  padding: 1rem;
+}
+body {
+  color: #eeeeee;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(101, 115, 255),
+    rgb(122, 113, 238),
+    rgb(143, 112, 220),
+    rgb(164, 110, 203),
+    rgb(185, 109, 185),
+    rgb(178, 125, 175),
+    rgb(149, 143, 181),
+    rgb(121, 162, 188),
+    rgb(92, 180, 194),
+    rgb(64, 198, 201)
+  );
+}
+.buttonBlock {
+  max-width: 650px;
+  margin: 1rem auto;
+  text-align: center;
+}
+button {
+  padding: 8px 20px;
+  margin: 5px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #ffffff;
+  background-color: transparent;
+  border: 3px solid #a0e2fc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:focus {
+  outline: none;
+  color: #2b2b2b;
+  background-color: #a0e2fc;
+}
+.place {
+  padding: 1rem;
+  margin: 1rem auto;
+  border-radius: 8px;
+  background-color: #ffffff41;
+}
+
+.image {
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+  border-radius: 8px;
+}
+footer {
+  background-color: #ffffff41;
+  padding: 1rem 0;
+  border-radius: 5px;
+  text-align: center;
+  color: #2b2b2b;
+  font-weight: bold;
+}
+footer a {
+  text-decoration: none;
+  color: #000000;
+}
