@@ -50,6 +50,7 @@ button:focus {
   margin: 1rem auto;
   border-radius: 8px;
   background-color: #ffffff41;
+  color: #000000;
 }
 
 .image {
